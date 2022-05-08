@@ -1,0 +1,28 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "stack": "cpp",
+        "queue": "cpp",
+        "utility": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "random": "cpp",
+        "regex": "cpp",
+        "type_traits": "cpp",
+        "valarray": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "algorithm": "cpp"
+    }
+}
